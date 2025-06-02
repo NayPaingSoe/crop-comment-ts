@@ -76,9 +76,6 @@ src/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
